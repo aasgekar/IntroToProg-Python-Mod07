@@ -1,1 +1,1 @@
-[Figure 1](docs/pseudocode.JPG)
+[Figure 1](https://aasgekar.github.io/IntroToProg-Python-Mod07/docs/pseudocode.JPG)
