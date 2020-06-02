@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: [Assignment 07]
 description: [Learning to use Pickling and Exceptions in Python]
-logo: [docs/pickle.png]
+logo: [/docs/pickle.png]
