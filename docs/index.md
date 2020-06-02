@@ -1,1 +1,1 @@
-blah blah blah
+[Figure 1](docs/pseudocode.JPG)
