@@ -1,2 +1,3 @@
 theme: jekyll-theme-minimal
-# Assignment 07
+title: [Assignment 07]
+description: [Pickling and Exceptions]
