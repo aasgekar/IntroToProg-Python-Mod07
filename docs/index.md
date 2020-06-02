@@ -31,7 +31,7 @@ def readFile(fileName):
     return outputList
 ```
 
-I then went on to create the other three functions which were pretty similar to actions we’ve performed in past assignments. I created a lot of local variables within the functions the keep it as simple as possible by minimizing inputs and not using global variables. The code for the functions can be seen below.
+I then went on to create the other three functions which were pretty similar to actions we’ve performed in past assignments. I created a lot of local variables within the functions to keep it as simple as possible by minimizing inputs and not using global variables. The code for the functions can be seen below.
 
 ```python
 def saveFile(fileName,list):
